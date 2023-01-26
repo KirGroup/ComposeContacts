@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Compose Contacts</string>
+
+    <string name="scr_contacts_title">Compose Contacts</string>
+    <string name="scr_contacts_search_hint">Поиск</string>
+    <string name="scr_contacts_message_empty">По вашему запросу ничегo\nне найдено…</string>
+
+    <string name="scr_permissions_message">Для продожения работы требуется предоставить разрешение на работу с КОНТАКТАМИ.</string>
+    <string name="scr_permissions_btn_provide">ПРЕДОСТАВИТЬ</string>
+    <string name="scr_permissions_btn_settings">НАСТРОЙКИ</string>
+
+</resources>
